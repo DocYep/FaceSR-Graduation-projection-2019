@@ -1,0 +1,1 @@
+%This script is written for LR dictionary learning algorithnm.
